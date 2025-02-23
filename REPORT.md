@@ -9,4 +9,4 @@
 - Passed ✅
 
 ## Pipeline Execution
-- [Screenshot of successful GitHub Actions run]
+![CI/CD Success](ci_cd_success.png)
